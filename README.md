@@ -51,5 +51,13 @@ Final Presentations
 
 Data
 
+This dataset is inspired by the UCLA Graduate Dataset. The test scores and GPA are in the older format.
+The dataset is owned by Mohan S Acharya.
+
+Inspiration
+This dataset was built with the purpose of helping students in shortlisting universities with their profiles. The predicted output gives them a fair idea about their chances at a particular university.
+
+
+
 
 
