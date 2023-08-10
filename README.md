@@ -67,7 +67,8 @@ Resources
    Methodology
 
 The following steps will be taken to complete this project:
-1. 
+
+1. Data acquisition and preparation: Download the dataset from Kaggle.com and prepare the data for analysis using Python libraries such as Pandas and NumPy.
 
 
 
