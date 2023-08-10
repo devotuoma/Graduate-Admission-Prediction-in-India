@@ -1,1 +1,1 @@
-Graduate Admisson Predition
+Graduate Admission Prediction
