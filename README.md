@@ -70,6 +70,9 @@ The following steps will be taken to complete this project:
 
 1. Data acquisition and preparation: Download the dataset from Kaggle.com and prepare the data for analysis using Python libraries such as Pandas and NumPy.
 
+2. Data analysis: Perform data analysis on the cleaned data using techniques such as exploratory data analysis to uncover insights to use in model building and evaluation.
+3. Visualize model complexity to check how it works.
+4. Results and Recommendation: Create a PowerPoint slide with visualizations and metrics to summarize the key findings of the analysis, along with clear and concise explanations.
 
 
 
