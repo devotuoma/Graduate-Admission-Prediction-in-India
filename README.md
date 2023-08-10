@@ -1,6 +1,7 @@
 Graduate Admission Prediction
 
-https://www.shutterstock.com/image-photo/diverse-multiethnic-group-female-male-students-2102451400
+![image](https://github.com/devotuoma/Graduate-Admission-Prediction-in-India/assets/94548340/0f332879-e754-45e1-a018-f75e29f8056c)
+
 
 Background
 
