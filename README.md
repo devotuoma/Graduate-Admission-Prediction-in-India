@@ -7,3 +7,5 @@ Admission of postgraduate students into various universities plays a significant
 Problem Statement
 
 While admitting graduate students for different postgraduate academic programs, there are factors that affect the chances of admission. This project is interested in analyzing factors that come into consideration while admitting graduate students and how they affect the chance of admission.
+
+Ojective
