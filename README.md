@@ -57,6 +57,11 @@ The dataset is owned by Mohan S Acharya.
 Inspiration
 This dataset was built with the purpose of helping students in shortlisting universities with their profiles. The predicted output gives them a fair idea about their chances at a particular university.
 
+Resources
+1. Download the Graduate Admission dataset from Kaggle.
+2. Data set link:https://www.kaggle.com/datasets/mohansacharya/graduate-admissions
+3. Python libraries such as Pandas, Numpy, Seaborn, Matplotlib, and Sklearn for analysis and model building.
+
 
 
 
