@@ -17,3 +17,7 @@ The main objectives of this project are:
 4. Take screenshots of the visuals for the final presentation  o summarize the key findings of the analysis, along with clear and concise explanations.
 
 Final Presentations   
+
+
+![Screenshot from 2023-08-10 11-39-24](https://github.com/devotuoma/Graduate-Admission-Prediction-in-India/assets/94548340/e56130d4-0fdd-4739-8e17-b3489cedfdc4)
+
