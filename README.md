@@ -1,6 +1,7 @@
 Graduate Admission Prediction
 
-![image](https://github.com/devotuoma/Graduate-Admission-Prediction-in-India/assets/94548340/0f332879-e754-45e1-a018-f75e29f8056c)
+![image](https://github.com/devotuoma/Graduate-Admission-Prediction-in-India/assets/94548340/fcc7e596-28f3-47ba-a2ca-793e6c51d052)
+
 
 
 Background
