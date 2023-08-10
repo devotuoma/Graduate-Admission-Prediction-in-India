@@ -40,6 +40,7 @@ Final Presentations
 ![Screenshot from 2023-08-10 11-43-39](https://github.com/devotuoma/Graduate-Admission-Prediction-in-India/assets/94548340/1068f2d6-26f1-4434-b89e-9b627dd7d5d2)
 
 
+![Screenshot from 2023-08-10 11-44-05](https://github.com/devotuoma/Graduate-Admission-Prediction-in-India/assets/94548340/3ea7a51e-b62f-4c4f-857b-bcbdd81ea216)
 
 
 
