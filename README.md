@@ -1,4 +1,4 @@
-Graduate Admission Predic
+Graduate Admission Predi
 
 ![image](https://github.com/devotuoma/Graduate-Admission-Prediction-in-India/assets/94548340/fcc7e596-28f3-47ba-a2ca-793e6c51d052)
 
